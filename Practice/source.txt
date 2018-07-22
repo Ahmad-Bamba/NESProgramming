@@ -1,0 +1,2 @@
+Following: https://patater.com/nes-asm-tutorials/
+Useful guide to NES Assembly: https://raw.githubusercontent.com/camsaul/nesasm/master/beagle_bros_6502_reference.png
