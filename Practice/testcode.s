@@ -14,8 +14,7 @@ nop          ; start code
 ; we will eventually put in bank 0
 .dw 0        ; what does this do?
 
-.bank 2        ; change to bank 2
-.org $0000    ; start at $0000
-.incbin "our.bkg"  ; INClude BINary file that will contain our background pic
-; data.
-.incbin "our.spr"  ; INClude BINary file that will contain our sprite pic data </code>
+.bank 2       
+.org $0000    ; switch to bank 2 and start at $0000
+.incbin "test.bkg"  ; #include "test.bkg"
+.incbin "test.spr"  ; #include "test.spr"
