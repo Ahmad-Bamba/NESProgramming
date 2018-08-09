@@ -1,2 +1,4 @@
-Following: https://patater.com/nes-asm-tutorials/
-Useful guide to NES Assembly: https://raw.githubusercontent.com/camsaul/nesasm/master/beagle_bros_6502_reference.png
+Following:
+- https://wiki.nesdev.com/w/index.php/Programming_guide#Tutorials
+- https://patater.com/nes-asm-tutorials/ (off-line)
+Useful cheatsheet to NES Assembly: https://raw.githubusercontent.com/camsaul/nesasm/master/beagle_bros_6502_reference.png
